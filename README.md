@@ -7,7 +7,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 # Resources
 
 **Read or watch:**
-- [RSA](https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [How does HTTPS provide security?](https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
 - [Prime Factorization](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
 - [Why RSA?](https://intranet.alxswe.com/rltoken/JM9Zrnja-XCQwm5kEzr_xA)
