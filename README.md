@@ -9,7 +9,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 **Read or watch:**
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [How does HTTPS provide security?](https://stackoverflow.com/questions/3968095/how-does-https-provide-security)
-- [Prime Factorization](https://intranet.alxswe.com/rltoken/kYixcru2uFRtLzb29NjiHg)
+- [Prime Factorization](https://privacycanada.net/mathematics/prime-factorization/)
 - [Why RSA?](https://intranet.alxswe.com/rltoken/JM9Zrnja-XCQwm5kEzr_xA)
 
 ## Requirements
