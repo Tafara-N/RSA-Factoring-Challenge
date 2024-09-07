@@ -93,7 +93,7 @@ This task is the same as task 0, except:
 - `p` and `q` are always prime numbers
 - There is only one number in the files
 - How far can you go in less than 5 seconds?
-- Read: [RSA Factoring Challenge](https://intranet.alxswe.com/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
+- Read: [RSA Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
 
 ```shell
 julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-1
