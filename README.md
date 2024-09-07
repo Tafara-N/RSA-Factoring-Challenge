@@ -4,7 +4,8 @@ Before you continue reading, start this song in the background :)
 
 We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
 
-## Resources
+# Resources
+
 ## Read or watch:
 - [RSA](https://intranet.alxswe.com/rltoken/VvijGiyWnPt8LDZjICgl1w)
 - [How does HTTPS provide security?](https://intranet.alxswe.com/rltoken/vNd9XWDEu1mgexyIGDMaXQ)
